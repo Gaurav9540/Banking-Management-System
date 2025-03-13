@@ -1,6 +1,11 @@
 # 🏦 Banking Management System 
 This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data. It simulates the core functionalities of a real-world banking system, providing a user-friendly interface for seamless banking operations.
 
+![Banking System](assets/bank.jpg.png)
+<p align="center">
+  <img src="assets/bank.jpg.png" alt="Banking System" width="400">
+</p>
+
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project on your local machine:
